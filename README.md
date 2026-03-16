@@ -64,7 +64,7 @@ ________________________________________________________________________________
 📍 Nagpur, India  
 📅 2023 – Present  
 
-**Key Areas:** DSA • OOP • DBMS •  Software Engineeringag05** 
+**Key Areas:** DSA • OOP • DBMS •  Software Engineering** 
 
 _____________________________________________________________________________________________________________________________________________
 ## 📫 Let's Connect!
@@ -78,5 +78,5 @@ Open to collaborations, discussions, and opportunities in **data science and tec
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitaliagrawal05@gmail.com)
 
 </p>
-______________________________________________________________________________________________________________________________________________________
-                                 ⭐ Feel free to explore my projects and give them a star if you like them!
+_____________________________________________________________________________________________________________________________________________________
+ ⭐ Feel free to explore my projects and give them a star if you like them!
