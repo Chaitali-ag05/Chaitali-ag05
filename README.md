@@ -59,9 +59,9 @@
 ____________________________________________________________________________________________________________________________________
 ## 🎓 Education
 
-🎓 **B.Tech in Computer Science & Data Science**  
-🏫 **Shri Ramdeobaba College of Engineering and Management**  
-📍 Nagpur, India  
+ **B.Tech in Computer Science & Data Science**  
+ **Shri Ramdeobaba College of Engineering and Management**  
+ Nagpur, India  
 📅 2023 – Present  
 
 **Key Areas:** DSA • OOP • DBMS •  Software Engineering** 
