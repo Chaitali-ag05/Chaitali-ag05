@@ -2,13 +2,13 @@
 
 ## 👩‍💻 About Me
 
-🎓 Data Science student passionate about exploring data and building ML models.
+ Data Science student passionate about exploring data and building ML models.
 
-📊 Interested in **Machine Learning, NLP, and Data Visualization**.
+ Interested in **Machine Learning, NLP, and Data Visualization**.
 
-💻 I enjoy working with **Python, SQL, and real-world datasets** to extract meaningful insights.
+ I enjoy working with **Python, SQL, and real-world datasets** to extract meaningful insights.
 
-🌱 Currently learning **advanced ML techniques and improving my data analysis skills**.
+ Currently learning **advanced ML techniques and improving my data analysis skills**.
 
 -----------------------------------------------------------------------------------------
 ## 🛠️ Tech Stack
