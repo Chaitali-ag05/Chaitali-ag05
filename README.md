@@ -4,9 +4,6 @@ Software engineer focused on **backend systems and applied ML**, currently study
 
 I build full-stack applications with **Spring Boot + React/TypeScript**, and AI-powered systems with **Python, RAG pipelines, and LLM APIs**.
 
-🚀 Currently building out the Enterprise Asset & Operations Management Platform and exploring more RAG/LLM-based tooling.
-🏆 Qualified for **Smart India Hackathon (SIH) 2025 – Round 1 (National Level)** with an AI-powered crop health monitoring solution.
-💻 Solved **200+ coding problems** on LeetCode.
 
 ---
 
